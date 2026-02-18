@@ -1,8 +1,8 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
-    "version": "4.0.12",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "title": "Devvit Research",
+    "name": "devvit-research",
+    "version": "0.0.1",
+    "description": "Source code for Devvit Research page",
     "keywords": [
         "css",
         "sass",

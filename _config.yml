@@ -1,19 +1,11 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
-
-# Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
-
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+title: Devvit Research
+email: miagobble@duck.com
+description: A joint program between iGottic and Devvit to create easily accessible research about the Roblox platform
+author: Mia Gobble
+baseurl: "/"
+url: "https://research.igottic.com"
+twitter_username: iGottic_Real
+github_username: MiaGobble
 
 # Build settings
 markdown:           kramdown
